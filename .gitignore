@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+a.out
+target
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
